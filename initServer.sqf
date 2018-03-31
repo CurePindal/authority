@@ -8,7 +8,7 @@ sleep 0.5;
 
 // added advanced urban rapelling via serverside addon
 
-//Sethduda's Advanced Towing
+// Sethduda's Advanced Towing
 _nul = execVM "SA_AdvancedTowing\fn_advancedTowingInit.sqf
 // Genesis92x's VCOM AI
 [] execVM "VCOMAI\init.sqf";
