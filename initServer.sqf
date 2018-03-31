@@ -5,6 +5,7 @@ initserverfinished = false; publicVariable "initserverfinished";
 missionsetupprogress = 0; publicVariable "missionsetupprogress";
 sleep 0.5;
 
+
 // added advanced urban rapelling via serverside addon
 
 //Sethduda's Advanced Towing
