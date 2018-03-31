@@ -10,7 +10,7 @@ sleep 0.5;
 
 //Sethduda's Advanced Towing
 _nul = execVM "SA_AdvancedTowing\fn_advancedTowingInit.sqf
-//Genesis92x's VCOM AI
+// Genesis92x's VCOM AI
 [] execVM "VCOMAI\init.sqf";
 
 /*independentcenter = createCenter independent;
